@@ -1,0 +1,23 @@
+# Virtual environment
+myenv/
+
+# Generated reports
+synthetic_energy_report.html
+
+# Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter notebooks checkpoint
+.ipynb_checkpoints/
